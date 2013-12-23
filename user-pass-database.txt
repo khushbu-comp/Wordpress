@@ -1,0 +1,13 @@
+Database Name:
+wordpress37
+
+Database User Name:
+wordpressuser37
+
+Database Password:
+?]DoJcbxc1pl
+
+
+
+sitelogin
+admin/22702406
